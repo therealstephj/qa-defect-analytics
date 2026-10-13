@@ -1,0 +1,6 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# Personal notes, not for GitHub
+INTERVIEW_NOTES.md
